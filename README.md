@@ -69,8 +69,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zrdt80&show_icons=true&theme=radical&hide_rank=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=zrdt80&theme=radical&date_format=M%20j%5B%2C%20Y%5D" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zrdt80&show_icons=true&theme=radical&hide_rank=false" height="170" align="top" />
+  <img src="https://camo.githubusercontent.com/8e20114223e1dc644bfec3a48a0d52d68eea5a7b111415513da106df709c8e54/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d7a7264743830267468656d653d7261646963616c26646174655f666f726d61743d4d2532306a25354225324325323059253544" height="170" />
 </p>
 
 ---
