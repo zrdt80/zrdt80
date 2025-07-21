@@ -1,17 +1,25 @@
 <h1 align="center">Hi 👋, I'm Maciej</h1>
-<h3 align="center">Aspiring backend & fullstack developer | Problem-solver | Code purist 🔧</h3>
+<h3 align="center">Aspiring backend & fullstack developer · Computer Science student · Code purist 🔧</h3>
 
 ---
 
-- 🌱 I’m currently deep-diving into **RESTful APIs**, **Flask**, **Docker**, and **FastAPI**
-- 💼 Open to junior backend/fullstack developer roles
-- 🧰 I love building real-world tools with clean architecture and strong data logic
-- 🛠️ Currently working on: `Vault` (secret manager), `BeeTrack` (apiary management)
-- 💬 Ask me about: backend design, Python, SQL, Linux tricks, or C++ debugging
-- 📫 How to reach me:  
+I'm a passionate backend & fullstack developer and a current **Computer Science student** with a strong foundation in **Python**, **SQL**, and **system architecture**.  
+I enjoy building tools that solve real-world problems and deepen my technical skillset.  
+Right now, I'm focused on growing my portfolio and preparing for my **first developer role**.
+
+---
+
+- 🌱 Currently deep-diving into: **RESTful APIs**, **Flask**, **Docker**, and **FastAPI**
+- 💼 Open to: **junior backend/fullstack developer roles**
+- 🧰 Interested in: clean architecture, backend systems, and data-heavy tools
+- 🛠️ Current projects: `Vault` (secret manager), `BeeTrack` (apiary management)
+- 💬 Ask me about: backend design, Python, SQL, Linux tools, or C++ debugging
+- 🎓 Studying: BSc in Computer Science · Poland 🇵🇱
+- 📫 How to reach me:
+
   [![Email](https://img.shields.io/badge/email-maciejpawlicki10%40gmail.com-informational)](mailto:maciejpawlicki10@gmail.com)  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maciej%20Pawlicki-blue?logo=linkedin)](https://www.linkedin.com/in/maciej-pawlicki-207b02222)
-  [![discord](https://img.shields.io/badge/Discord-Z3R05-blue?logo=discord&logoColor=white)](https://discordapp.com/users/527160222683365386)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maciej%20Pawlicki-blue?logo=linkedin)](https://www.linkedin.com/in/maciej-pawlicki-207b02222)  
+  [![Discord](https://img.shields.io/badge/Discord-Z3R05-blue?logo=discord&logoColor=white)](https://discordapp.com/users/527160222683365386)  
   [![Portfolio](https://img.shields.io/badge/Portfolio-In%20progress-yellow)](https://macpaw.dev)
 
 ---
@@ -63,7 +71,6 @@
 ![JWT](https://img.shields.io/badge/JWT-Auth_Tokens-000000?logo=jsonwebtokens&logoColor=white)
 ![Regex](https://img.shields.io/badge/RegEx-Pattern_Matching-EF7C00?logo=codewars&logoColor=white)
 
-
 ---
 
 ## 📊 GitHub Stats
@@ -75,7 +82,7 @@
 
 ---
 
-## 📁 Projects in Progress
+## 📁 Current Projects
 
 - 🔐 `Vault` – Secret manager with JWT auth and encryption (Flask + SQLite)
 - 🍯 `BeeTrack` – Apiary + product manager (FastAPI + PostgreSQL + cron)
